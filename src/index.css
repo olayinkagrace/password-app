@@ -1,0 +1,14 @@
+.par {
+    border-radius: 10px;
+}
+button {
+    transition: 0.2s all;
+}
+@media (max-width: 300px) {
+    .hed {
+        font-size: 13px;
+    }
+    .par {
+        font-size: 13px;
+    }
+}
